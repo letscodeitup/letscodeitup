@@ -1,7 +1,7 @@
 ![logo](https://github.com/letscodeitup/letscodeitup/blob/main/new%20one.png)
 <h1 align="center">Hi 👋, I'm Aarushi Sharma</h1>
 <h3 align="center">Learning, experimenting, and dreaming big.</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+
 
 - 🌱 I’m currently learning **Computer Science**
 
