@@ -98,12 +98,12 @@ Actively contributed to organizing tech events, workshops, and community learnin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushi-sharma-letitbe1227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushi-sharma-letitbe1227&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=letscodeitup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letscodeitup&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushi-sharma-letitbe1227&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letscodeitup&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ Actively contributed to organizing tech events, workshops, and community learnin
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarushi-sharma-letitbe1227&label=Profile%20views&color=A78BFA&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=letscodeitup&label=Profile%20views&color=A78BFA&style=flat" alt="profile views" />
 </p>
 
 <p align="center"><i>"Data is the new poetry — I write both." 🌸</i></p>
